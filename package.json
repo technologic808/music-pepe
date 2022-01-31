@@ -1,0 +1,28 @@
+{
+  "name": "music-bot",
+  "version": "0.0.1",
+  "repository": "https://github.com/technologic808/music-pepe.git",
+  "description": "Pepe the frog plays music for you on Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "music",
+    "bot"
+  ],
+  "author": "technologic808",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.7.0",
+    "discord-player": "^5.2.0",
+    "discord.js": "^13.6.0",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "ytdl-core": "^4.10.0"
+  },
+  "devDependencies": {
+    "prettier": "2.5.1"
+  }
+}

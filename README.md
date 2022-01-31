@@ -4,7 +4,7 @@ Pepe plays music for you on Discord
 
  ## [Add to your Discord Server](https://discord.com/api/oauth2/authorize?client_id=937788903304364033&permissions=3155968&scope=bot%20applications.commands)
 
-<img src="./assets/Music-Pepe.png">
+<img src="./assets/Music-Pepe.jpg">
 
 
 

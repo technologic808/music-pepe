@@ -1,4 +1,4 @@
-# Music Pepe 
+# DJ Pepe 
 
 Pepe plays music for you on Discord
 
